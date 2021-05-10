@@ -1,1 +1,1 @@
-<img align="center" alt="marcoscianzio" width="100%" src="./profile.svg" />
+<img align="center" alt="marcoscianzio" width="100%" src="./profile.png" />
