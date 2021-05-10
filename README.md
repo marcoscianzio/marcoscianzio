@@ -6,4 +6,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosCianzio&bg_color=3E728C&title_color=FFFFFF&text_color=FFFFFF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Most used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=3E728C&title_color=FFFFFF&text_color=FFFFFF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
