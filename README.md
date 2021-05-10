@@ -1,1 +1,1 @@
-[<img align="center" alt="codeSTACKr | Instagram" width="22px" src="./profile.png" />]
+<img align="center" alt="marcoscianzio" width="100%" src="./profile.png" />
