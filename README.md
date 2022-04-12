@@ -2,7 +2,7 @@
 ![10](https://user-images.githubusercontent.com/73872769/117823945-68c20c80-b244-11eb-9e89-19526a684258.png)
 
 ## About me
-![aboutMe](https://user-images.githubusercontent.com/73872769/162934243-6af6bfa7-9fe5-4456-ab5e-f7601ac15b9c.png)
+![aboutMe](https://user-images.githubusercontent.com/73872769/162935312-8dde2dba-d7f9-4554-b499-bc23015b7208.png)
 
 ![10](https://user-images.githubusercontent.com/73872769/117823945-68c20c80-b244-11eb-9e89-19526a684258.png)
 ## Status
